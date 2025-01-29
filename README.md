@@ -32,10 +32,6 @@ Check the provided Jupyter Notebook or Python script for a detailed example of h
 
 Contributions are welcome! If you have any suggestions, improvements, or issues, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Gradient AI for providing the platform and tools for sentiment analysis.
